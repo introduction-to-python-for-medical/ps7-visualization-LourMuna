@@ -1,1 +1,2 @@
 
+The x axis of the graph represent the three different types of the Iris flower (Iris-setosa, Iris-versicolor class, and the Iris-virginica). The why axis represent the sepall length in each Iris. From the graph the Iris-Setosa seem to have the shortest sepal length ranging from approximetly 4.3 - 5.7. The Iris-versicolor plants range from 4.7-7.2, we can also see a mild gap between the lengths 5.2-5.4. As for the Iris-virginica the length of the petal has the widest range, starting from approximetly 5 up to 8.
