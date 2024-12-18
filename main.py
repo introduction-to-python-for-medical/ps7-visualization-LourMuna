@@ -31,6 +31,6 @@ plt.xlabel(reference_feature)
 plt.ylabel(comparison_feature)
 
 # Save the plot as an image file
-plt.savefig('correlation_plot.png')
+plt.savefig('unknown.png')
 
 plt.show()
